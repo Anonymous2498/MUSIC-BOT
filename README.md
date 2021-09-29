@@ -1,2 +1,1 @@
-# MUSIC-BOT
-IT'S A MUSIC BOT
+https://replit.com/@TechWorld6/AnonymousMusicBot#index.js
